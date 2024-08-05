@@ -1,6 +1,6 @@
 # Link Shortener Tool
 
-Đây là một công cụ rút gọn link đơn giản sử dụng ngôn ngữ Python.
+Đây là một công cụ rút gọn link đơn giản dùng api tinyurl.com qua ngôn ngữ Python.
 
 ## Cài Đặt
 
